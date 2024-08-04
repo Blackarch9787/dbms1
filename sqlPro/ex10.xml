@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Harry potter and the philosopher's stone </title>
+        <author>j.k rowling</author>
+        <year>1997</year>
+        <publisher>Bloomsbury</publisher>       
+    </book>
+    <book>
+        <title>the lord of the</title>
+        <author>j.r.r Tolkien</author>
+        <year>1954</year>
+        <publisher>Allenamp</publisher>
+    </book>
+</books>
